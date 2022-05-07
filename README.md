@@ -9,6 +9,6 @@ User can drop pin anywhere to see the **Latitudes and Longitudes** of that locat
 
 Preview of the Application:
 
-https://user-images.githubusercontent.com/73556387/167257998-da704fa9-a633-4818-99fc-25cc2b3dff16.mp4
+
 
 -----
